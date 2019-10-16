@@ -14,3 +14,8 @@ For information on the training, see the website
 1. [Contributing](CONTRIBUTING.md): information on how to contribute to this
    repository.
 1. docs: directory containing the website for this repository.
+
+## Acknowledgements
+
+Examples  examples of job scripts for worker were kindly provided
+by Mag Selwa [mag.selwa@kuleuven.be](mailto:mag.selwa@kuleuven.be).
