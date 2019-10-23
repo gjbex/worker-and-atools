@@ -1,4 +1,5 @@
 # editor backup and swap files
 *~
 *.swp
+*.bak
 ~$worker_atools.pptx
