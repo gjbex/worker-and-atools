@@ -11,7 +11,7 @@ much as possible: [worker](https://worker.readthedocs.io/en/latest/)
 and [atools](https://atools.readthedocs.io/en/latest/).
 
 
-# Learning outcomes
+## Learning outcomes
 
 When you complete this training you will be able to
 
@@ -23,34 +23,39 @@ When you complete this training you will be able to
   * recognize and avoid potential pitfalls.
 
 
-# Schedule
+## Schedule
 
-  | Time        | Subject                     |
-  |-------------|-----------------------------|
-  | 09:00-09:15 | introduction and motivation |
-  | 09:15-10:30 | worker framework            |
-  | 10:30-10:45 | coffee break                |
-  | 10:45-11:30 | atools                      |
-  | 11:30-11:50 | use cases & comparison      |
-  | 11:50-12:00 | wrap up                     |
+Total duration: 3 hours.
+
+  | Subject                     | Duration |
+  |-----------------------------|----------|
+  | introduction and motivation | 15 min.  |
+  | worker framework            | 75 min.  |
+  | coffee break                | 15 min.  |
+  | atools                      | 45 min.  |
+  | use cases & comparison      | 20 min.  |
+  | wrap up                     | 10 min.  |
+
+
+## Training materials
 
 Slides are available in the
  [GitHub repository](https://github.com/gjbex/worker-and-atools/),
 as well as example code and job scripts.
 
 
-# Target audience
+## Target audience
 
 This training is for you if you need to use HPC resources effectively
 for embarrassingly parallel workloads.
 
 
-# Prerequisites
+## Prerequisites
 
 You will need to be comfortable using Linux and the HPC environment.
 If necessary, attend the appropriate training sessions on those subjects.
 
 
-# Trainer(s)
+## Trainer(s)
 
   * Geert Jan Bex ([geertjan.bex@uhasselt.be](mailto:geertjan.bex@uhasselt.be))
