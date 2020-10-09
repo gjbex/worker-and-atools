@@ -52,7 +52,7 @@ Repository and documentation of the tools covered:
                     [documentation](https://github.com/gjbex/parameter-weaver/)
 * datasink: [repository](https://github.com/gjbex/datasink),
             [documentation](http://datasink.readthedocs.io/)
-* memio: [repository](https://github.com/gjbex/mem_io),
+* mem_io: [repository](https://github.com/gjbex/mem_io),
          [documentation](http://mem_io.readthedocs.io/)
 
 
