@@ -43,6 +43,18 @@ Slides are available in the
  [GitHub repository](https://github.com/gjbex/worker-and-atools/),
 as well as example code and job scripts.
 
+Repository and documentation of the tools covered:
+* worker: [repository](https://github.com/gjbex/worker),
+          [documentation](http://worker.readthedocs.io/)
+* atools: [repository](https://github.com/gjbex/atools),
+          [documentation](http://atools.readthedocs.io/)
+* parameter-weaver: [repository](https://github.com/gjbex/parameter-weaver/),
+                    [documentation](https://github.com/gjbex/parameter-weaver/)
+* datasink: [repository](https://github.com/gjbex/datasink),
+            [documentation](http://datasink.readthedocs.io/)
+* memio: [repository](https://github.com/gjbex/mem_io),
+         [documentation](http://mem_io.readthedocs.io/)
+
 
 ## Target audience
 
