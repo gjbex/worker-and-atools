@@ -1,4 +1,4 @@
-# examples
+# worker examples
 
 Some examples of how to use the worker framework with several languages
 and applications.
