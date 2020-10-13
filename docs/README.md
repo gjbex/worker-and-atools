@@ -55,6 +55,27 @@ Repository and documentation of the tools covered:
 * mem_io: [repository](https://github.com/gjbex/mem_io),
          [documentation](http://mem_io.readthedocs.io/)
 
+## Video materials
+
+Video recordings of this training are available on YouTube.
+
+1. [Introduction](https://youtu.be/jHl9zwdlfPk) (1 minute)
+1. [worker: parameter exploration](https://youtu.be/sN_J0eh2eLM) (11 minutes)
+1. [Get example scripts](https://youtu.be/CRqgmmmGTug) (1 minute)
+1. [worker: Bash example](https://youtu.be/Rox48pZ0_4o) (6 minutes)
+1. [worker: MapReduce](https://youtu.be/GhExtyBgHpk) (2.5 minutes)
+1. [worker features](https://youtu.be/Bz-GeZt2ZA0) (17 minutes)
+1. [parameter-weaver](https://youtu.be/4lmhjuNyU5c) (5 minutes)
+1. [worker: tuning](https://youtu.be/olHgd1_v8Gk) (19 minutes)
+1. [atools: parameter exploration](https://youtu.be/FboycKzF790) (6.5 minutes)
+1. [atools: features](https://youtu.be/qmyAXQfW1qg) (7 minutes)
+1. [atools: demo](https://youtu.be/uNXH-rZfJ9c) (6 minutes)
+1. [atools: tuning](https://youtu.be/7rZiLPj9AcM) (2 minutes)
+1. [Comparison between worker and atools](https://youtu.be/L8BeVnLETLE) (2 minutes)
+1. [File I/O and performance](https://youtu.be/2pBbw6XvhIY) (4.5 minutes)
+1. [Conclusions](https://youtu.be/ctFvFSA0kR4) (1 minute)
+1. [Implementation](https://youtu.be/_L6eRMNvUC0) (3.5 minutes)
+
 
 ## Target audience
 
