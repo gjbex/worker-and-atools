@@ -1,10 +1,6 @@
 #!/bin/bash -l
-#PBS -l nodes=1:ppn=1
-#PBS -l walltime=00:05:00
-
-# not needed in real script, this is only to localize test
-cd $PBS_O_WORKDIR
-PATH="../bin:$PATH"
+#SBATCH --nodes=1 --ntasks=1
+#SBATCH --time=00:05:00
 
 # log start of work item execution
 alog --state start
@@ -13,7 +9,6 @@ alog --state start
 source <(aenv --data data.csv)
 
 # do actual work, i.e., original PBS script
-cd $PBS_O_WORKDIR
 echo "alpha = $alpha"
 echo "beta = $beta"
 echo "gamma = $gamma"
